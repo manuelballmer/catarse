@@ -1,11 +1,11 @@
 en:
-  failure_title: 'Please, fix the errors bellow:'
+  failure_title: 'Bitte korrigieren Sie untenstehende Fehler:'
   uservoice_gadget:
     user:
-      name: 'User'
-      location: 'City / State'
-      confirmed_backers: 'Confirmed backs'
-      created_projects: 'Created projects'
+      name: 'Benutzer'
+      location: 'Stadt / Bundesland'
+      confirmed_backers: 'Bestätigte Spenden'
+      created_projects: 'Erstellte Projekte'
   site:
     title: "The biggest crowdfunding community in Brazil"
     meta_title:  "%{title} · %{company_name}"
@@ -14,40 +14,40 @@ en:
 
   login:
     forgot_passord:
-      welcome: 'Reset password'
-      label: 'Fill your email to reset your password'
-      submit: 'Reset'
+      welcome: 'Passwort zurücksetzen'
+      label: 'Füllen Sie Ihre e-mail-Adresse ab um Ihr Passwort zurückzusetzen'
+      submit: 'Zurücksetzen'
     registrations:
-      welcome: 'Sign up'
-      password_hint: 'Minimum 6 characters'
-      show_password: 'Show password'
+      welcome: 'Anmelden'
+      password_hint: 'Mindestens 6 Zeichen'
+      show_password: 'Zeige Passwort'
     singin: "Log in"
     placeholder:
       email: "Email"
-      password: "Password"
+      password: "Passwort"
 
   backer_report_to_project_owner:
-    reward_description: 'Reward description'
-    confirmed_at: 'Payment confirmed at'
-    value: 'Back value'
-    service_fee: 'Catarse fee'
-    user_name: 'Backer name'
-    user_email: 'Catarse user profile e-mail'
-    payer_email: 'Payment gateway user e-mail'
-    payment_method: 'Payment method'
-    address_street: 'Street'
-    address_complement: 'Complement'
-    address_number: 'Number'
-    address_neighbourhood: 'Neighbourhood'
-    address_city: 'City'
-    address_state: 'State'
-    address_zip_code: 'Zip code'
-    anonymous: 'Anonymous'
-  edit_project: 'Edit this project'
-  facebook_locale: 'en_US'
+    reward_description: 'Spendenbeschreibung'
+    confirmed_at: 'Zahlung bestätigt am'
+    value: 'Spendenbetrag'
+    service_fee: 'Catarse Gebühr'
+    user_name: 'Spender Name'
+    user_email: 'Catarse Benutzer Profile e-mail'
+    payer_email: 'Zahlungskanal Benutzer e-mail'
+    payment_method: 'Zahlungsmethode'
+    address_street: 'Strasse'
+    address_complement: 'Strassenzusatz'
+    address_number: 'Hausnummer'
+    address_neighbourhood: 'Stadtteil'
+    address_city: 'Ort'
+    address_state: 'Bundesland'
+    address_zip_code: 'Postleitzahl'
+    anonymous: 'Anonym'
+  edit_project: 'Projekt bearbeiten'
+  facebook_locale: 'de_De'
   or: or
-  'no': "No"
-  'yes': "Yes"
+  'no': "Nein"
+  'yes': "Ja"
   newsletter_ok_header: "You are subscribed to the newsletter!"
   newsletter_ok_body: "Your email is now in our newsletter list, thanks for subscribing!"
   newsletter_error_header: "Woops! There was an error."
